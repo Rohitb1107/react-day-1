@@ -13,7 +13,7 @@ function App() {
         })}
       </ul>
 
-      <h1>mobileOS Operating System</h1>
+      <h1>mobileOS Manufacturers</h1>
       <ul>
         {company.map((el) => {
           return <li>{el}</li>;
