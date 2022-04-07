@@ -6,14 +6,14 @@ function App() {
 
   return (
     <>
-      <h1>mobileOS Operating System</h1>
+      <h1>Mobile Operating System</h1>
       <ul>
         {mobileOS.map((el) => {
           return <li>{el}</li>;
         })}
       </ul>
 
-      <h1>mobileOS Manufacturers</h1>
+      <h1>Mobile Manufacturers</h1>
       <ul>
         {company.map((el) => {
           return <li>{el}</li>;
