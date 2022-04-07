@@ -1,10 +1,8 @@
-import { useState } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   const mobileOS = ["Android", "Blackberry", "IPhone", "Windows Phone"];
-  const company = ["Samsung", "HTC", "IPhone", "Windows Phone"];
+  const company = ["Samsung", "HTC", "Micromax", "Apple"];
 
   return (
     <>
